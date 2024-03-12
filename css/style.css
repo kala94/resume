@@ -1,0 +1,65 @@
+*{
+   padding:0px;
+   margin:0px;
+ }
+ h3 
+ {
+   color:brown;
+ }
+ ul 
+ {
+	padding-left:20px;
+ }
+ 
+/* Contact Section */
+ 
+ #ressec 
+ {
+   background-color:SkyBlue; 
+   height:220px; 
+   width:65%;
+   margin:auto;
+   padding-top:50px;
+ }
+ .condet 
+ {
+   padding:20px;
+ }
+ img 
+ {  
+   float:right; 
+   height:150px;
+   width:150px;
+   padding-right:25px;
+   padding-top:16px;
+ }
+ .condet b 
+ {
+   font-size:20px;
+ }
+ 
+/* Education Section */
+ 
+ #edusec, #skisec,#expsec,#cersec  
+ {
+   margin:auto;
+   width:65%;
+   padding-top:30px;
+ }
+ 
+ /* Skill Section */
+ 
+ .ski1 
+ {
+   float:right;
+   padding-right:300px;
+ }
+ 
+ /* Certification Section */
+ 
+  .cerdet button 
+  {
+	padding:5px;
+  }
+
+  
